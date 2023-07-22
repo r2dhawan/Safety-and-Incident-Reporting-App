@@ -1,0 +1,29 @@
+.incident-list {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.incident-item {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.incident-item h3 {
+  margin: 0;
+  color: #007bff;
+}
+
+.incident-item p {
+  margin: 5px 0;
+  color: #333;
+}
+
+.incident-photo {
+  display: block;
+  max-width: 100%;
+  margin-top: 10px;
+}
